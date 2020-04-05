@@ -1,0 +1,6 @@
+image:
+  file: .gitpod.dockerfile
+vscode:
+  extensions:
+    - dbaeumer.vscode-eslint@2.0.0:CwAMx4wYz1Kq39+1Aul4VQ==
+    - James-Yu.latex-workshop@8.8.0:h+NZsv7iyBU5iCp1Tc9S0A==
